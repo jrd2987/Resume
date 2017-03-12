@@ -1,0 +1,46 @@
+body{
+  background-color: gray;
+}
+
+img{
+   display: block;
+   margin:auto;
+   width: 25%;
+   border: 3px solid blue;
+}
+ .Me{
+   color: blue;
+ }
+ .Edu{
+   color:blue;
+ }
+ .skills{
+   color:blue;
+ }
+ 
+.Exp{
+  color:blue;
+}
+
+p{
+  font-size: 20px;
+  font-family: sans-serif;
+  opacity: 0.75;
+}
+
+.hobbies{
+  font-size: 25px;
+}
+
+.Running{
+    font-size: 20px
+
+}
+
+.Games{
+  font-size: 20px;
+}
+
+.WebDev{
+  font-size: 20px;
+}
